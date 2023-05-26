@@ -31,3 +31,5 @@ build () {
 	cp -a $srcdir/irrlicht/include $pkgdir/include
 	cp -a $srcdir/irrlicht/media/Shaders $pkgdir/Shaders
 }
+
+#build pls
